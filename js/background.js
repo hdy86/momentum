@@ -4,6 +4,6 @@ const chosenImage = images[Math.floor(Math.random() * images.length)];
 
 const bgImage = document.createElement("div");
 
-bgImage.style.backgroundImage = `url(../img/${chosenImage})`;
+bgImage.style.backgroundImage = `url(img/${chosenImage})`;
 
 document.getElementById("bg").appendChild(bgImage);

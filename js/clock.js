@@ -4,7 +4,7 @@ const clockSec = document.querySelector("#clock div span:last-child");
 const today = document.querySelector("#date");
 
 function getClock() {
-  const date = new Date(2022, 09, 13, 24);
+  const date = new Date();
 
   // 시간
   const hour = date.getHours();
