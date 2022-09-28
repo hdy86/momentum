@@ -1,6 +1,6 @@
 # Momentum
 
-### NomadCoker - 바닐라 JS로 크롬 앱 만들기 강의
+### NomadCoder - 바닐라 JS로 크롬 앱 만들기 강의
 
 <a href="https://nomadcoders.co/javascript-for-beginners/lobby" title="NomadCoder" target="_blank">NomadCoder 사이트</a>
 <br/>
