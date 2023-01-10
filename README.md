@@ -1,7 +1,6 @@
 # Momentum
 
-Chrome 기본 앱에 투두 리스트 추가된 프로그램  
-(2022.08.29 ~ 2022.09.11)
+Chrome 기본 앱에 투두 리스트 추가된 프로그램
 
 github.io 배포 사이트 |
 <a href="https://hdy86.github.io/momentum/" title="Momentum" target="_blank">🔗 link</a>
